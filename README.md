@@ -3,7 +3,7 @@
 
 # Short Description:
 
-This project is a mini-game that concists of you, a trash bin who doesn't want to pick up trash anymore, and falling pieces of trash.
+This was made for my final project for CS50x. This is a mini-game that concists of you, a trash bin who doesn't want to pick up trash anymore, and falling pieces of trash.
 These pieces of trash increase in speed as time goes on, and they will multiply as time goes on as well, making it harder and harder to survive.
 
 # Inception
