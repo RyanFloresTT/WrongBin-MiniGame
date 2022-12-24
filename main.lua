@@ -26,6 +26,8 @@ local titleFont = love.graphics.newFont("fonts/EVILDEAD.ttf", 48)
 local menuFont = love.graphics.newFont("fonts/Roboto-Medium.ttf", 24)
 
 function love.load()
+    -- Set Window Title
+    love.window.setTitle("Wrong Bin!")
     -- Set Icon
     love.window.setIcon(iconSprite)
 
